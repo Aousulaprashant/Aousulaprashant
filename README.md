@@ -10,7 +10,6 @@
 ### 🧑‍💻 About Me
 - 🎓 Final year B.Tech in **AI & Data Science** (2025)
 - 🧠 Learning **DevOps, Docker, Kubernetes, CI/CD, AWS**
-- 🔍 Preparing for **GATE CSE 2026**
 - 🚀 Actively applying for **Full Stack & Backend roles**
 - 📧 Reach me at **prashanthaousula@gmail.com**
 
