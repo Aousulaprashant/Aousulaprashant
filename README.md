@@ -3,6 +3,9 @@
 > Full Stack Developer | MERN Stack Enthusiast | AI & ML Explorer  
 > B.Tech in Artificial Intelligence & Data Science | Hyderabad, India
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://porfolio-umber-delta.vercel.app/)
+
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-aousula-9a9b33369/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Aousulaprashant)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/A_PRASHANTH/)
