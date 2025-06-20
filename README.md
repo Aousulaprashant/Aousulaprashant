@@ -33,19 +33,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
 ---
-
-### 📌 Highlight Projects
-
-#### 🧠 [DevConnect](https://github.com/Aousulaprashant/devconnect)  
-> A Q&A platform like Stack Overflow with AI-generated answer summaries, role-based dashboards, and media support.  
-> **Tech:** MERN, TipTap Editor, AI, Role-based Auth
-
-#### 🎧 [MOODsync](https://github.com/Aousulaprashant/moodsync)  
-> AI-based music recommendation system using emotion detection (FaceAPI), text analysis, and Deezer API.
-
-#### 📊 [Employee Attrition ML App](https://github.com/Aousulaprashant/employee-attrition-ml)  
-> Built with Streamlit and ML models (XGBoost, SVM) to predict employee churn.
-
 ---
 
 ### 📊 GitHub Stats
