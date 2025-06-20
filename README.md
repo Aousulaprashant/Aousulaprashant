@@ -2,6 +2,9 @@
 
 > Full Stack Developer | MERN Stack Enthusiast | AI & ML Explorer  
 > B.Tech in Artificial Intelligence & Data Science | Hyderabad, India
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aousulaprashant&label=Profile%20views&color=0e75b6&style=flat" alt="Aousulaprashant" />
+</p>
 
 <p align="center">
   <a href="https://porfolio-umber-delta.vercel.app" target="_blank">
