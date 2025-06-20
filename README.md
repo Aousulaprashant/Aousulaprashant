@@ -1,66 +1,116 @@
-<h1 align="center">Hi 👋, I'm Prashanth Aousula</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | DevOps Learner </h3>
+# 👋 Hey there, I'm Prashanth
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aousulaprashant&label=Profile%20views&color=0e75b6&style=flat" alt="Aousulaprashant" />
-</p>
+> Full Stack Developer | MERN Stack Enthusiast | AI & ML Explorer  
+> B.Tech in Artificial Intelligence & Data Science | Hyderabad, India
 
----
-
-### 🧑‍💻 About Me
-- 🎓 Final year B.Tech in **AI & Data Science** (2025)
-- 🧠 Learning **DevOps, Docker, Kubernetes, CI/CD, AWS**
-- 🚀 Actively applying for **Full Stack & Backend roles**
-- 📧 Reach me at **prashanthaousula@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-aousula-161b19224/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Aousulaprashant)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/A_PRASHANTH/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prashanthaousula@gmail.com)
 
 ---
 
-### 💻 Tech Stack
+## 🧑‍💻 Who Am I?
 
-#### 🚀 Languages & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-
----
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aousulaprashant&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aousulaprashant&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aousulaprashant&layout=compact&theme=radical" />
-</p>
+🎓 Final-year undergrad at Nalla Malla Reddy Engineering College (CGPA: 8.4/10)  
+👨‍💼 Full Stack Developer Intern @ Gwing Software & Bluestock Fintech  
+💡 Passionate about building scalable full-stack apps and smart AI/ML systems  
+📦 Deployed real-time mood-based music engine, developer Q&A platforms, and ML apps  
+🔭 Currently learning: **DevOps, Docker, AWS, CI/CD, System Design**
 
 ---
 
-### 📫 Connect with Me
+## 🔧 Tech Stack
 
-<p align="center">
-  <a href="mailto:prashanthaousula@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/prashanth-aousula-161b19224/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aousulaprashant">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Languages:** Python, C++, JavaScript (ES6+), HTML, CSS  
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Auth:** JWT, Firebase Auth  
+**State Management:** Redux, Context API  
+**ML Tools:** scikit-learn, NLTK, Face-API.js, Pandas, NumPy  
+**Deployment:** Vercel, Streamlit Cloud, Netlify  
+**Tools:** Git, GitHub, VSCode, Jupyter, Google Colab, Anaconda, Streamlit
 
 ---
 
-<p align="center">
-  💻 Built with ❤️ using Markdown & GitHub | Let’s build the future together 🚀
-</p>
+## 🚀 Projects
+
+### 🌐 [Dev-Sea](https://dev-sea-nru4.vercel.app/)
+> A full-stack Q&A platform for developers
+
+- Firebase Auth (Google, GitHub, Facebook)
+- Rich text editor with code blocks, tables, mentions
+- Search, tag-based filtering, scalable REST APIs  
+🛠️ Stack: React.js, Node.js, Express, MongoDB, Firebase
+
+🔗 [GitHub Repo](https://github.com/Aousulaprashant/Dev-Sea)
+
+---
+
+### 🎵 [MOODsync](https://m-oodsync-real-time-mood-based-music-engine-for-cabs-3hfy650np.vercel.app/)
+> Real-time mood-based music engine for cabs, flights, or personal use
+
+- Detects mood via face expressions & sentiment analysis
+- Streams music from Deezer & YouTube based on emotion  
+🛠️ Stack: React.js, Node.js, Face-API.js, Firebase, Deezer API
+
+🔗 [GitHub Repo](https://github.com/Aousulaprashant/MOodsync-Real-Time-Mood-Based-Music-Engine-for-Cabs-Flights-Personal-Use)
+
+---
+
+### 🧠 [Multiple Disease Prediction System](https://multiple-disease-prediction-system-mlgit-a32er9hkm3gwg99tftmb2.streamlit.app/)
+> Predicts risk of Diabetes, Heart Disease, and Parkinson’s
+
+- Built with Logistic Regression, SVM, Streamlit  
+- Clean UI, real-time predictions from medical datasets  
+🛠️ Stack: Python, scikit-learn, Streamlit
+
+🔗 [GitHub Repo](https://github.com/Aousulaprashant/Multiple-Disease-Prediction-System-ML)
+
+---
+
+### 📊 [Predicting Employee Attrition](https://predicting-employee-attrition-mlgit-rsqxhncdhztsgtwg3pq2ka.streamlit.app/)
+> ML-based system to predict employee turnover
+
+- Used SVC, feature engineering, and hyperparameter tuning  
+🛠️ Stack: Python, scikit-learn, Streamlit
+
+🔗 [GitHub Repo](https://github.com/Aousulaprashant/Predicting-Employee-Attrition-ML)
+
+---
+
+## 💼 Experience
+
+### 🔹 **Gwing Software Technologies** (Full Stack Developer Intern)  
+📍 Hyderabad | 🗓️ Aug 2024 – Nov 2024  
+- Built a modular LMS platform with role-based access (Admin, Learner)  
+- JWT Auth, nested content (Courses → Chapters), user progress tracking  
+- State management via Redux and Context API  
+
+### 🔹 **Bluestock Fintech** (SDE Intern, Team Lead)  
+📍 Remote | 🗓️ Aug 2024 – Sep 2024  
+- IPO tracking web app and admin dashboard  
+- API integration with smooth UX, content management tools
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aousulaprashant&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aousulaprashant&layout=compact&theme=radical" height="150"/>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+- Email: **prashanthaousula@gmail.com**
+- LinkedIn: [prashanth-aousula](https://www.linkedin.com/in/prashanth-aousula-161b19224/)
+- GitHub: [Aousulaprashant](https://github.com/Aousulaprashant)
+- LeetCode: [@A_PRASHANTH](https://leetcode.com/u/A_PRASHANTH/)
+
+---
+
+_“Consistency is what transforms average into excellence.”_
