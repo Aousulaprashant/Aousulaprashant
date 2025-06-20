@@ -3,7 +3,7 @@
 > Full Stack Developer | MERN Stack Enthusiast | AI & ML Explorer  
 > B.Tech in Artificial Intelligence & Data Science | Hyderabad, India
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-aousula-161b19224/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-aousula-9a9b33369/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Aousulaprashant)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/A_PRASHANTH/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prashanthaousula@gmail.com)
@@ -59,67 +59,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🌐 [Dev-Sea](https://dev-sea-nru4.vercel.app/)
-> A full-stack Q&A platform for developers
-
-- Firebase Auth (Google, GitHub, Facebook)
-- Rich text editor with code blocks, tables, mentions
-- Search, tag-based filtering, scalable REST APIs  
-🛠️ Stack: React.js, Node.js, Express, MongoDB, Firebase
-
-🔗 [GitHub Repo](https://github.com/Aousulaprashant/Dev-Sea)
-
----
-
-### 🎵 [MOODsync](https://m-oodsync-real-time-mood-based-music-engine-for-cabs-3hfy650np.vercel.app/)
-> Real-time mood-based music engine for cabs, flights, or personal use
-
-- Detects mood via face expressions & sentiment analysis
-- Streams music from Deezer & YouTube based on emotion  
-🛠️ Stack: React.js, Node.js, Face-API.js, Firebase, Deezer API
-
-🔗 [GitHub Repo](https://github.com/Aousulaprashant/MOodsync-Real-Time-Mood-Based-Music-Engine-for-Cabs-Flights-Personal-Use)
-
----
-
-### 🧠 [Multiple Disease Prediction System](https://multiple-disease-prediction-system-mlgit-a32er9hkm3gwg99tftmb2.streamlit.app/)
-> Predicts risk of Diabetes, Heart Disease, and Parkinson’s
-
-- Built with Logistic Regression, SVM, Streamlit  
-- Clean UI, real-time predictions from medical datasets  
-🛠️ Stack: Python, scikit-learn, Streamlit
-
-🔗 [GitHub Repo](https://github.com/Aousulaprashant/Multiple-Disease-Prediction-System-ML)
-
----
-
-### 📊 [Predicting Employee Attrition](https://predicting-employee-attrition-mlgit-rsqxhncdhztsgtwg3pq2ka.streamlit.app/)
-> ML-based system to predict employee turnover
-
-- Used SVC, feature engineering, and hyperparameter tuning  
-🛠️ Stack: Python, scikit-learn, Streamlit
-
-🔗 [GitHub Repo](https://github.com/Aousulaprashant/Predicting-Employee-Attrition-ML)
-
----
-
-## 💼 Experience
-
-### 🔹 **Gwing Software Technologies** (Full Stack Developer Intern)  
-📍 Hyderabad | 🗓️ Aug 2024 – Nov 2024  
-- Built a modular LMS platform with role-based access (Admin, Learner)  
-- JWT Auth, nested content (Courses → Chapters), user progress tracking  
-- State management via Redux and Context API  
-
-### 🔹 **Bluestock Fintech** (SDE Intern, Team Lead)  
-📍 Remote | 🗓️ Aug 2024 – Sep 2024  
-- IPO tracking web app and admin dashboard  
-- API integration with smooth UX, content management tools
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -132,7 +71,7 @@
 ## 📫 Let's Connect
 
 - Email: **prashanthaousula@gmail.com**
-- LinkedIn: [prashanth-aousula](https://www.linkedin.com/in/prashanth-aousula-161b19224/)
+- LinkedIn: [prashanth-aousula](https://www.linkedin.com/in/prashanth-aousula-9a9b33369/)
 - GitHub: [Aousulaprashant](https://github.com/Aousulaprashant)
 - LeetCode: [@A_PRASHANTH](https://leetcode.com/u/A_PRASHANTH/)
 
